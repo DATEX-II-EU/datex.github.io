@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.9.1.16:1", "", "DataValue", "EARoot/EA9/EA1/EA16/EA1065.htm", "175.png", "183", "0", "", "Logical diagram0","{96F9767E-4D79-4e05-AE5C-057531FD06B9}");
+tocTab[tocTab.length] = new Array("0.9.1.16:2", "", "VehicleCountAndRate", "EARoot/EA9/EA1/EA16/EA1067.htm", "175.png", "182", "0", "", "Logical diagram0","{14A2480B-9394-43e5-BFFB-C8381A618EA8}");
+tocTab[tocTab.length] = new Array("0.9.1.16:3", "", "«D2Class» OccupancyChangeValue", "EARoot/EA9/EA1/EA16/EA1071.htm", "5.png", "E1044", "0", "", "Class0","{95A641BA-AAA4-430f-BA9B-06902757E0D5}");
+tocTab[tocTab.length] = new Array("0.9.1.16:4", "", "«D2Class» VehicleCountAndRate", "EARoot/EA9/EA1/EA16/EA1072.htm", "5.png", "E1045", "0", "", "Class0","{0363E22F-D942-4709-BF3A-8257E2EA317B}");
+tocTab[tocTab.length] = new Array("0.9.1.16:5", "", "«D2Class» VehicleCountValue", "EARoot/EA9/EA1/EA16/EA1073.htm", "5.png", "E1046", "0", "", "Class0","{63FE1F75-C0AE-4140-A034-390E38ACA3C8}");
+tocTab[tocTab.length] = new Array("0.9.1.16:6", "", "«D2Class» VehicleCountWithinInterval", "EARoot/EA9/EA1/EA16/EA1074.htm", "5.png", "E1047", "0", "", "Class0","{6D2E7E07-A913-4dfb-A2E4-D3F27A005640}");
+tocTab[tocTab.length] = new Array("0.9.1.16:7", "", "«D2Class» VehicleRate", "EARoot/EA9/EA1/EA16/EA1075.htm", "5.png", "E1048", "0", "", "Class0","{53FDB14F-AAC4-4d0f-872B-6E99175481EC}");
